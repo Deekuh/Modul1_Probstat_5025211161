@@ -133,6 +133,7 @@ x1 dan x2 dapat diperoleh menggunakan fungsi **floor(mean(data))** dan **ceiling
 >Diperoleh x1 sebesar **49** dan x2 sebesar **50**
 
 Z-Score pada Distribusi Normal dapat diperoleh dengan menggunakan persamaan **zScore = (data - mean(data))/sd(data)**, di mana data = **rnorm(n, mean, sd)**
+
 Plot data generate random dapat dibuat dengan menggunakan fungsi **plot(zScore, type = "o", col = "brown")**
 
 ![6a3](https://user-images.githubusercontent.com/90295688/195273315-8605c494-0cad-4d56-8427-7cda95b94006.png)
